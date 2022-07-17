@@ -1,5 +1,8 @@
 # faceRecognition
-This repository contains codes for facial recognition
+This repository contains codes for facial recognition. The whole code is made in 
+reference to refrence 2.
+
+Use refence 1 to install dlib, is some error occurs.
 
 # References
 1. https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f
